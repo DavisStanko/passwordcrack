@@ -1,6 +1,6 @@
 # passwordcrack
 
-This program attempts to crack any password given to it. Your password isn't necessarily good if it wasn't cracked by this program, the program suffers from poor memory management due in part to using Python as a language and otherwise due to code quality.
+This program attempts to crack any password given to it. Your password isn't necessarily good if it wasn't cracked by this program since the program suffers from poor memory management due in part to using Python as a language and otherwise due to code quality.
 
 ## Usage
 
